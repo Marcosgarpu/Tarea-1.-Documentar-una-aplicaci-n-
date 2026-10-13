@@ -1,6 +1,6 @@
 .venv
 requirements.txt
 .gitignore
-site/
+site
 __pycache__
 *.pyc
