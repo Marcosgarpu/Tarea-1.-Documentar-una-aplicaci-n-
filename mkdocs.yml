@@ -1,0 +1,5 @@
+site_name: Conversor
+nav:
+  - Inicio: index.md
+  - Instalación: instalacion.md
+  - Uso: uso.md
